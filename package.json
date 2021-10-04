@@ -1,6 +1,7 @@
 {
   "name": "sss-ngo",
   "version": "0.1.0",
+  "homepage": "https://vickyaryan.github.io/sahasrasevasamithi/",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
