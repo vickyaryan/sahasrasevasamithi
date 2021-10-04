@@ -1,0 +1,26 @@
+{
+  "short_name": "Sahasra Seva Samithi",
+  "name": "Sahasra Seva Samithi",
+  "icons": [
+    {
+      "src": "AppImages/maskable_icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/AppImages/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+  },
+  {
+      "src": "/AppImages/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+  }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#112033",
+  "background_color": "#ffffff"
+}
